@@ -1,5 +1,8 @@
 _repo: Pointed-Roofs--Pilgrimage-Volume-1_3019
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richardson, Dorothy M. (Dorothy Miller)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '1090'
     url: http://www.gutenberg.org/2009/agents/1090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3019#Pointed-Roofs--Pilgrimage-Volume-1
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
